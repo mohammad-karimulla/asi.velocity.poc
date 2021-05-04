@@ -1,0 +1,6 @@
+C:\CIGNITI\E006556\POC\ASI.Velocity.POC\Radar.Core\bin\Debug\Radar.Core.dll
+C:\CIGNITI\E006556\POC\ASI.Velocity.POC\Radar.Core\bin\Debug\Radar.Core.pdb
+C:\CIGNITI\E006556\POC\ASI.Velocity.POC\Radar.Core\obj\Debug\Radar.Core.csprojAssemblyReference.cache
+C:\CIGNITI\E006556\POC\ASI.Velocity.POC\Radar.Core\obj\Debug\Radar.Core.csproj.CoreCompileInputs.cache
+C:\CIGNITI\E006556\POC\ASI.Velocity.POC\Radar.Core\obj\Debug\Radar.Core.dll
+C:\CIGNITI\E006556\POC\ASI.Velocity.POC\Radar.Core\obj\Debug\Radar.Core.pdb
